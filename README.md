@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rownak Rajbhar</h1>
 <h3 align="center">A passionate student programmer from India</h3>
 <img align="right" alt="coding" width= "400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning Python and C
 
 - 📫 How to reach me **punamrajbhar24@gmail.com**
 
