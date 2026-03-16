@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width= "400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 - 🌱 I’m currently learning Python and C
 
-- 📫 How to reach me **punamrajbhar24@gmail.com**
+- 📫 How to reach me **rownakrajbhar2005@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
