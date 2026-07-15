@@ -22,4 +22,5 @@
 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CuberRownak576&layout=compact&theme=tokyonight" height="170"/>
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuberrownak576&show_icons=true&locale=en&layout=compact" alt="cuberrownak576" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuberrownak576&show_icons=true&locale=en" alt="cuberrownak576" /></p>
