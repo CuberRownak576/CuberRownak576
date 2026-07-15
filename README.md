@@ -27,8 +27,6 @@ alt="nmap" width="40" height="40"/>
 <img src="https://th.bing.com/th/id/OIP.MS87QctxQNSxvuz1S95Y-AHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
 alt="wireshark" width="40" height="40"/>
 </a>
-
 <div data-importer="stats" align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CuberRownak576&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  />
 </div>
-
